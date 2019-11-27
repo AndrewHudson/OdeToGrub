@@ -1,0 +1,12 @@
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\bin\Debug\netcoreapp2.2\OdeToGrub.Data.deps.json
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\bin\Debug\netcoreapp2.2\OdeToGrub.Data.dll
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\bin\Debug\netcoreapp2.2\OdeToGrub.Data.pdb
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\bin\Debug\netcoreapp2.2\OdeToGrub.Core.dll
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\bin\Debug\netcoreapp2.2\OdeToGrub.Core.pdb
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\obj\Debug\netcoreapp2.2\OdeToGrub.Data.csprojAssemblyReference.cache
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\obj\Debug\netcoreapp2.2\OdeToGrub.Data.csproj.CoreCompileInputs.cache
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\obj\Debug\netcoreapp2.2\OdeToGrub.Data.AssemblyInfoInputs.cache
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\obj\Debug\netcoreapp2.2\OdeToGrub.Data.AssemblyInfo.cs
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\obj\Debug\netcoreapp2.2\OdeToGrub.Data.csproj.CopyComplete
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\obj\Debug\netcoreapp2.2\OdeToGrub.Data.dll
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Data\obj\Debug\netcoreapp2.2\OdeToGrub.Data.pdb

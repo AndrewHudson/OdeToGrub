@@ -1,0 +1,9 @@
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Core\bin\Debug\netcoreapp2.2\OdeToGrub.Core.deps.json
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Core\bin\Debug\netcoreapp2.2\OdeToGrub.Core.dll
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Core\bin\Debug\netcoreapp2.2\OdeToGrub.Core.pdb
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Core\obj\Debug\netcoreapp2.2\OdeToGrub.Core.csprojAssemblyReference.cache
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Core\obj\Debug\netcoreapp2.2\OdeToGrub.Core.csproj.CoreCompileInputs.cache
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Core\obj\Debug\netcoreapp2.2\OdeToGrub.Core.AssemblyInfoInputs.cache
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Core\obj\Debug\netcoreapp2.2\OdeToGrub.Core.AssemblyInfo.cs
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Core\obj\Debug\netcoreapp2.2\OdeToGrub.Core.dll
+C:\Users\Neueda\OdeToGrub\OdeToGrub.Core\obj\Debug\netcoreapp2.2\OdeToGrub.Core.pdb
